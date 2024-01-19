@@ -16,7 +16,7 @@
 | [授权管理精简版](https://github.com/azmiao/authMS_lite) | [@azmiao](https://github.com/azmiao) | [授权管理](https://github.com/pcrbot/authMS)的自用精简版</br>适配v1.0.0+的go-cqhttp</br>其他各种精简和优化修改 |2023-10-25 10:00:37|
 | [词影](https://github.com/X-Zero-L/CiYing) | [@X-Zero-L](https://github.com/X-Zero-L) | 词影游戏插件 |2023-09-25 18:04:15|
 | [yobot游戏风格回复](https://github.com/qiandeng1/yobot_ImageEngine) | [@qiandeng1](https://github.com/qiandeng1) | 针对yobot_remix开发的QQBot回复消息仿游戏界面的插件 |2023-11-06 21:39:09|
-| [尊嘟假嘟转换](https://github.com/AddOneSecondL/zdjd_hoshino) <!--cont.-->| [@AddOneSecondL](https://github.com/AddOneSecondL) | 尊嘟假嘟？ |2023-08-19 15:56:14|
+| [尊嘟假嘟转换](https://github.com/AddOneSecondL/zdjd_hoshino) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 尊嘟假嘟？ |2023-08-19 15:56:14|
 | [pjsk贴纸](https://github.com/Nao-desu/pjsk_sticker) | [@Nao-desu](https://github.com/Nao-desu) | 啤酒烧烤角色贴纸生成插件 |2023-11-15 09:37:08|
 | [你只需要出刀](https://github.com/SonderXiaoming/kanna_connection_redive) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 自动报刀，box查询，分刀 |2023-12-26 10:01:43|
 | [Claude-in-hoshino](https://github.com/assassingyk/Claude-in-hoshino) | [@assassingyk](https://github.com/assassingyk) | 适用hoshino bot的claude for slack插件 |2023-07-13 01:04:01|
@@ -73,7 +73,7 @@
 | [Dynamite](https://github.com/yuhao7370/Dynamite-Hoshino-Plugin) | [@yuhao7370](https://github.com/yuhao7370)  | 社区音游Dynamite查分模块 |2022-11-05 19:55:06|
 | [鉴定群友](https://github.com/pcrbot/determine) | [@chu3](https://github.com/chu3)  | 鉴定群友是0还是1(可以扩展) |2022-08-20 17:11:19|
 | [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 模仿柚子社角色的声音（支持中文，日文） |2024-01-02 12:58:32|
-| [猜单词](https://github.com/kokoro-ele/Wordle4Hoshino) | [@kokoro](https://github.com/kokoro-ele) | wordle游戏 |2022-08-01 17:51:19|
+| [猜单词](https://github.com/kokoro-ele/Wordle4Hoshino) <!--cont.-->| [@kokoro](https://github.com/kokoro-ele) | wordle游戏 |2022-08-01 17:51:19|
 | [出刀记录图片版](https://github.com/othinus001/Daidao) | [@othinus001](https://github.com/othinus001) | 进度表，代刀表，合刀，一穿二，附代刀提醒系统 |2022-09-20 23:47:32|
 | [FGO Gacha](https://github.com/kcn3388/fgogacha) | [@kcn3388](https://github.com/kcn3388) | 简单的FGO抽卡模拟器 |2023-06-02 08:47:00|
 | [HoshinoBot-Plugins](https://github.com/mengshouer/HoshinoBot-Plugins) | [@mengshouer](https://github.com/mengshouer) | 常用的插件有： bilibili解析、直链获取、RSS |2023-04-28 14:37:13|
